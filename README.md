@@ -1,12 +1,18 @@
-Config files for my GitHub profile.- 👋 Hi, I’m @kerolainyx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+bem vindo ao meu perfil
 
-<!---
-kerolainyx/kerolainyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+meu nome é kerolainy
+
+estou me desenvolvendo na linguagem javasScript
+
+estou estudando na [Alura](https://www.alura.com.br)
+
+estou tendo aula de tecnologia
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolviodos
+
+
+voce quer entrar em contato comigo
+00001104455389sp@al.educacao.sp.gov.br
+
+@kerolainyx
+
+
